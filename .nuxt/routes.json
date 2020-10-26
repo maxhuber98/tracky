@@ -1,0 +1,30 @@
+[
+  {
+    "name": "addworkout",
+    "path": "/addworkout",
+    "component": "C:\\\\Dev\\\\Tracky\\\\tracky\\\\pages\\\\addworkout.vue",
+    "chunkName": "pages/addworkout",
+    "_name": "_3e652a98"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Dev\\\\Tracky\\\\tracky\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_f57d8b7e"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Dev\\\\Tracky\\\\tracky\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_8029aa0a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Dev\\\\Tracky\\\\tracky\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_88ccd1ac"
+  }
+]
